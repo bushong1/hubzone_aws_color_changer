@@ -2,7 +2,7 @@
 // @name          Hubzone Upper vs Lower
 // @description	  Change the color of the AWS Console between lower and upper
 // @namespace     http://hubzone.sba.gov/
-// @include       http://console.aws.amazon.com*
+// @include       https://console.aws.amazon.com*
 
 //by Charles Bushong (@totalnerd)
 // ==/UserScript==
