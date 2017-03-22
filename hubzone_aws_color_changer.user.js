@@ -22,7 +22,8 @@ function hubzone_change_color(color) {
 (function (){
 	window.addEventListener('load', function() {
     var color_map = {"sba-one": "0ca702",
-                     "sbaone-prod": "ef0d0d"}
+                     "sbaone-prod": "ef0d0d",
+                     "2224-8429-1001": "ef0d0d"}
     var current_zone = document.getElementById("awsc-login-display-name-account").innerHTML;
 		hubzone_change_color(color_map[current_zone]);
 	}, false);
